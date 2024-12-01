@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DicodingStoryApp</string>
+
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Selamat datang di Dicoding StoryApp! Bagikan cerita Anda di Dicoding. Mulailah petualangan cerita Anda sekarang!</string>
+    <string name="title_welcome_page">Selamat datang di Dicoding StoryApp!</string>
+    <string name="title_signup_page">Lengkapi data pribadi Anda di bawah ini</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="message_login_page">Masukkan data Anda terlebih dahulu</string>
+    <string name="title_login_page">Apakah Anda siap untuk berbagi cerita Anda?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="welcome_image">Gambar Selamat Datang</string>
+    <string name="login_image">gambar login</string>
+    <string name="image_signup">pendaftaran gambar</string>
+    <string name="content_description_media">gambar cerita</string>
+    <string name="title">judul</string>
+    <string name="secondary_text">description</string>
+    <string name="title_detail">Detail</string>
+    <string name="image">gambar</string>
+    <string name="title_main">Cerita Dicoding</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="write_your_story">Tulis Cerita Anda</string>
+    <string name="cancel">Batal</string>
+    <string name="appwidget_text">Widget Cerita</string>
+    <string name="add_widget">Tambah widget</string>
+    <string name="app_widget_description">Ini adalah deskripsi widget aplikasi</string>
+    <string name="empty_text">Tidak Ada Data</string>
+    <string name="locale">Bahasa</string>
+</resources>

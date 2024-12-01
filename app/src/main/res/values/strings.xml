@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DicodingStoryApp</string>
+    <string name="signup">Register</string>
+    <string name="login">Log in</string>
+    <string name="message_welcome_page">Welcome to Dicoding StoryApp! Share your story on Dicoding. Start your story adventure now!</string>
+    <string name="title_welcome_page">Welcome to Dicoding StoryApp!</string>
+    <string name="title_signup_page">Complete your personal data below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Enter your data first</string>
+    <string name="title_login_page">Are you ready to share your story?</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Happy Learning at Dicoding.</string>
+    <string name="greeting">Hello %1$s,</string>
+    <string name="logout">Log out</string>
+    <string name="welcome_image">Welcome Image</string>
+    <string name="login_image">login image</string>
+    <string name="image_signup">image signup</string>
+    <string name="content_description_media">story image</string>
+    <string name="title">title</string>
+    <string name="secondary_text">description</string>
+    <string name="title_detail">Details</string>
+    <string name="image">image</string>
+    <string name="title_main">Dicoding Story</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="write_your_story">Write Your Story</string>
+    <string name="cancel">Cancel</string>
+    <string name="appwidget_text">Story Widget</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="empty_text">No Data</string>
+    <string name="locale">Languages</string>
+</resources>

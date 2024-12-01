@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DicodingStoryApp</string>
+
+    <string name="signup">Daftar</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Sugeng rawuh ing Dicoding StoryApp! Nuduhake crita sampeyan ing Dicoding. Mulai petualangan crita sampeyan saiki!</string>
+    <string name="title_welcome_page">Sugeng rawuh ing Dicoding StoryApp!</string>
+    <string name="title_signup_page">Lengkapi rincian pribadi sampeyan ing ngisor iki</string>
+    <string name="email">Email</string>
+    <string name="password">Sandi</string>
+    <string name="message_login_page">Ketik rincian sampeyan dhisik</string>
+    <string name="title_login_page">Apa sampeyan wis siyap kanggo nuduhake crita sampeyan?</string>
+    <string name="name">Jeneng</string>
+    <string name="message_main_page">Sugeng Sinau ing Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Log out</string>
+    <string name="welcome_image">Gambar Sambutan</string>
+    <string name="login_image">login gambar</string>
+    <string name="image_signup">registrasi gambar</string>
+    <string name="content_description_media">gambar crita</string>
+    <string name="title">judul</string>
+    <string name="secondary_text">deskripsi</string>
+    <string name="title_detail">Detail</string>
+    <string name="image">gambar</string>
+    <string name="title_main">Dekoding Crita</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery"> Galeri</string>
+    <string name="upload"> Unggah</string>
+    <string name="write_your_story">Tulis Crita Sampeyan </string>
+    <string name="cancel"> Batal </string>
+    <string name="appwidget_text">Widget Cerita</string>
+    <string name="add_widget">Tambah widget </string>
+    <string name="app_widget_description">Iki minangka katrangan saka widget aplikasi</string>
+    <string name="empty_text">Ora Ana Data</string>
+    <string name="locale">Basa</string>
+</resources>

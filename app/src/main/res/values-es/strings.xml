@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DicodingStoryApp</string>
+
+    <string name="signup">Registrarse</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="message_welcome_page">¡Bienvenido a Dicoding StoryApp! Comparte tus historias en Dicoding. ¡Comienza tu aventura de cuentos ahora!</string>
+    <string name="title_welcome_page">¡Bienvenido a Dicoding StoryApp!</string>
+    <string name="title_signup_page">Completa tus datos personales a continuación</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="message_login_page">Ingresa tus datos primero</string>
+    <string name="title_login_page">¿Estás listo para compartir tu historia?</string>
+    <string name="name">Nombre</string>
+    <string name="message_main_page">Feliz aprendizaje en Dicoding.</string>
+    <string name="greeting">Hola %1$s,</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="welcome_image">Imagen de bienvenida</string>
+    <string name="login_image">imagen de inicio de sesión</string>
+    <string name="image_signup">imagen de registro</string>
+    <string name="content_description_media">imagen de la historia</string>
+    <string name="title">título</string>
+    <string name="secondary_text">descripción</string>
+    <string name="title_detail">Detalle</string>
+    <string name="image">imagen</string>
+    <string name="title_main">Decodificación de la historia</string>
+    <string name="camera">Cámara</string>
+    <string name="gallery">Galería</string>
+    <string name="upload">Subir</string>
+    <string name="write_your_story">Escribe tu historia</string>
+    <string name="cancel">Cancelar</string>
+    <string name="appwidget_text">Widget de la historia</string>
+    <string name="add_widget">Añadir widget</string>
+    <string name="app_widget_description">Esta es la descripción del widget de la aplicación</string>
+    <string name="empty_text">Sin datos</string>
+    <string name="locale">Idiomas</string>
+</resources>
